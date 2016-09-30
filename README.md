@@ -7,6 +7,7 @@ Totally assumes you're running Raspian or some other Linux distro on the RPi.
 
 - Go 1.5 or greater
 - Some POSIX-compliant operating system
+- Targets RPi 2 or greater
 
 ## installation
 
